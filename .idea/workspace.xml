@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3087dae-2717-43ab-a5a1-a370dbac90d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App/Conf/Dev/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Conf/Dev/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Conf/Dev/redis.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Conf/Dev/redis.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Conf/Dev/url.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Conf/Dev/url.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Conf/Online/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Conf/Online/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Conf/Online/redis.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Conf/Online/redis.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Conf/Online/url.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Conf/Online/url.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Conf/Test/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Conf/Test/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Conf/Test/redis.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Conf/Test/redis.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Conf/Test/url.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Conf/Test/url.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/WebSocketEvent.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/WebSocketEvent.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/WebSocketEvent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding>
+                <element signature="e#50#69#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Conf/Dev/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Conf/Dev/redis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Conf/Dev/url.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Conf/Online/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Conf/Online/redis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Conf/Online/url.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Conf/Test/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Conf/Test/redis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/Conf/Test/url.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PUSH_MSG_USER_LOGIN</find>
+      <find>PUSH_MSG_NOTICE_LIST</find>
+      <find>systemMessageLock</find>
+      <find>pushQueueAll</find>
+      <find>PUSH_MSG_SOCKET_FD</find>
+      <find>Change</find>
+      <find>gzcp</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/App/Utility/Mall</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bootstrap.php" />
+        <option value="$PROJECT_DIR$/EasySwooleEvent.php" />
+        <option value="$PROJECT_DIR$/App/Crontab/PushUserNoticeDelayMsg.php" />
+        <option value="$PROJECT_DIR$/App/Crontab/PushUserNoticeMsg.php" />
+        <option value="$PROJECT_DIR$/App/HttpController/Router.php" />
+        <option value="$PROJECT_DIR$/App/HttpController/Api/Base.php" />
+        <option value="$PROJECT_DIR$/App/HttpController/Api/Notice.php" />
+        <option value="$PROJECT_DIR$/App/Library/IMessage/iMessageController.php" />
+        <option value="$PROJECT_DIR$/App/Log/LogHandel.php" />
+        <option value="$PROJECT_DIR$/App/Models/ImChatModel.php" />
+        <option value="$PROJECT_DIR$/App/Models/PushMsgModel.php" />
+        <option value="$PROJECT_DIR$/App/Models/ImModel.php" />
+        <option value="$PROJECT_DIR$/App/Parser/WebSocketParser.php" />
+        <option value="$PROJECT_DIR$/App/Server/ChangPeiServer/UserServer.php" />
+        <option value="$PROJECT_DIR$/App/Server/MainServer/UserServer.php" />
+        <option value="$PROJECT_DIR$/App/Server/MysqlServer/PushMsg.php" />
+        <option value="$PROJECT_DIR$/App/Server/RedisServer/CountServer.php" />
+        <option value="$PROJECT_DIR$/App/Server/RedisServer/FdServer.php" />
+        <option value="$PROJECT_DIR$/App/Server/RedisServer/QueueServer.php" />
+        <option value="$PROJECT_DIR$/App/Server/Server.php" />
+        <option value="$PROJECT_DIR$/App/Utility/Http/Curl.php" />
+        <option value="$PROJECT_DIR$/App/Utility/Http/ParamsCheck.php" />
+        <option value="$PROJECT_DIR$/App/Utility/Http/Response.php" />
+        <option value="$PROJECT_DIR$/App/Utility/Ws/Category.php" />
+        <option value="$PROJECT_DIR$/App/Utility/Ws/CheckRequest.php" />
+        <option value="$PROJECT_DIR$/App/Utility/Ws/GetRequest.php" />
+        <option value="$PROJECT_DIR$/App/Utility/Ws/LogRequest.php" />
+        <option value="$PROJECT_DIR$/App/Utility/Ws/Robot.php" />
+        <option value="$PROJECT_DIR$/App/WebSocketController/Error/ErrorMessage.php" />
+        <option value="$PROJECT_DIR$/App/WebSocketController/V1/IosMessage.php" />
+        <option value="$PROJECT_DIR$/App/WebSocketController/V2/AndroidMessage.php" />
+        <option value="$PROJECT_DIR$/App/WebSocketController/V3/IosMessage.php" />
+        <option value="$PROJECT_DIR$/App/WebSocketController/Base.php" />
+        <option value="$PROJECT_DIR$/App/WebSocketRoute/ForwardRoute.php" />
+        <option value="$PROJECT_DIR$/App/Utility/Http/OAuth.php" />
+        <option value="$PROJECT_DIR$/App/WebSocketEvent.php" />
+        <option value="$PROJECT_DIR$/App/Conf/Dev/url.php" />
+        <option value="$PROJECT_DIR$/App/Conf/Online/url.php" />
+        <option value="$PROJECT_DIR$/App/Conf/Dev/db.php" />
+        <option value="$PROJECT_DIR$/App/Conf/Dev/redis.php" />
+        <option value="$PROJECT_DIR$/App/Conf/Online/db.php" />
+        <option value="$PROJECT_DIR$/App/Conf/Online/redis.php" />
+        <option value="$PROJECT_DIR$/App/Conf/Test/db.php" />
+        <option value="$PROJECT_DIR$/App/Conf/Test/redis.php" />
+        <option value="$PROJECT_DIR$/App/Conf/Test/url.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/log" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/jwt" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/session" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/utility" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/redis" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/hot-reload" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/doctrine-annotations" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/mysqli" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/validate" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/annotation" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/pool" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/redis-pool" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/trigger" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/orm" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/ddl" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/spl" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/command" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/component" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/task" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/http" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/bridge" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/socket" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/config" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/http-annotation" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/easyswoole" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="-1055" />
+    <option name="width" value="1920" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pmq" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pmq" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="Conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pmq" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="Conf" type="462c0819:PsiDirectoryNode" />
+              <item name="Dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pmq" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="Conf" type="462c0819:PsiDirectoryNode" />
+              <item name="Online" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pmq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pmq" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="Conf" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3087dae-2717-43ab-a5a1-a370dbac90d3" name="Default Changelist" comment="" />
+      <created>1652075129786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652075129786</updated>
+      <workItem from="1652075131729" duration="9781000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9781000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19169329" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Test.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/http/src/AbstractInterface/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="116" column="23" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+            <element signature="e#42#91#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Library/IMessage/iMessageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Notice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+            <element signature="e#124#159#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Log/LogHandel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#7#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Models/PushMsgModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Models/ImChatModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Models/ImModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Parser/WebSocketParser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Server/ChangPeiServer/UserServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+            <element signature="e#127#154#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Server/MainServer/UserServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+            <element signature="e#401#428#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Server/MysqlServer/PushMsg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+            <element signature="e#124#152#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Server/RedisServer/CountServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+            <element signature="e#124#146#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Server/RedisServer/FdServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+            <element signature="e#124#146#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Server/WebSocketServer/PushServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#128#150#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Server/RedisServer/QueueServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+            <element signature="e#124#146#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Server/Server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Http/Curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Http/ParamsCheck.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Http/Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Ws/Params.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Ws/Result.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Ws/ParamsCheck.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Ws/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#7#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Ws/CheckRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="9" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Ws/GetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Ws/LogRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WebSocketController/Error/ErrorMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#48#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WebSocketController/V1/AndroidMessage.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Ws/Robot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WebSocketController/V2/AndroidMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#46#74#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WebSocketController/V3/IosMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2348">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <element signature="e#46#74#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WebSocketController/V1/IosMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#7#81#0#PHP" expanded="true" />
+            <element signature="e#46#74#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WebSocketController/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WebSocketRoute/ForwardRoute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasySwooleEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="148" column="88" selection-start-line="148" selection-start-column="88" selection-end-line="148" selection-end-column="88" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+            <element signature="e#417#448#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Utility/Http/OAuth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/WebSocketEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#50#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Conf/Dev/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Conf/Dev/redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Conf/Dev/url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Conf/Online/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Conf/Online/redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Conf/Online/url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Conf/Test/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Conf/Test/redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Conf/Test/url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
